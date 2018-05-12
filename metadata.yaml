@@ -1,0 +1,31 @@
+_repo: Stories-of-the-Old-world_43982
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43982-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Church, Alfred John
+    alias: Church, Alfred J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+description: ''
+gutenberg_issued: '2013-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcsh 'Mythology, Roman -- Juvenile literature'
+- !lcc 'PZ'
+tableOfContents: The story of the Argo -- The story of Thebes -- The story of Troy
+  -- The adventures of Ulysses -- The adventures of Æneas.
+title: Stories of the Old World
+url: http://www.gutenberg.org/ebooks/43982
